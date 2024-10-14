@@ -29,7 +29,7 @@ body {
 }
 
 .contenedorUno {
-    background: rgb(105, 37, 50);
+    background: rgb(104, 101, 101);
     padding: 20px;
     margin: 35px auto;
     width: 50%;
@@ -45,7 +45,7 @@ body {
 }
 
 .contenedorTres {
-    background: rgb(151, 129, 5);
+    background: rgb(103, 102, 106);
     padding: 20px;
     margin: 35px auto;
     width: 50%;
